@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ice-cloud/static/css/main.1adc01a9.css",
+    "main.js": "/ice-cloud/static/js/main.4b6bb725.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/ice-cloud/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo.gif": "/ice-cloud/static/media/logo.da55f018fe219e145c2f.gif",
+    "static/media/404.png": "/ice-cloud/static/media/404.84abab1a0682a7c70c1e.png",
+    "index.html": "/ice-cloud/index.html",
+    "main.1adc01a9.css.map": "/ice-cloud/static/css/main.1adc01a9.css.map",
+    "main.4b6bb725.js.map": "/ice-cloud/static/js/main.4b6bb725.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/ice-cloud/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1adc01a9.css",
+    "static/js/main.4b6bb725.js"
+  ]
+}
