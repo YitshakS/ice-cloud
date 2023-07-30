@@ -1,0 +1,219 @@
+{
+	"languages": [
+		{
+			"default": "true",
+			"name": "en",
+			"direction": "ltr",
+			"flag_emoji": "\ud83c\uddfa\ud83c\uddf8"
+		},
+		{
+			"name": "he",
+			"direction": "rtl",
+			"flag_emoji": "\ud83c\uddee\ud83c\uddf1"
+		}
+	],
+	"site_name": {
+		"en": "Ice cream<br />on cloud",
+		"he": "גלידה<br />על ענן"
+	},
+	"site_description": {
+		"en": "<h3>Project creator:</h3> Yitzhak Schlissel<br /><br />This project demonstrates the use of the following technologies:<br /><h3>Architectural Design Patterns:</h3> Model View Controller, and more...<br /><h3>Client side (front end):</h3> React, Bootstrap, Chart.js, Font Awesome, and more...<br /><h3>Server side (Back end):</h3> BigML (Machine Learning), Node.js, Express, SQL, NoSQL (MongoDB), and more...",
+		"he": "<h3>יוצר הפרויקט:</h3> יצחק שליסל<br /><br />פרויקט זה מדגים את השימוש בטכנולוגיות הבאות:<br /><h3>תבניות עיצוב ארכיטקטוניות:</h3> Model View Controller, ועוד...<br /><h3>צד לקוח:</h3> Font Awesome ,Chart.js ,Bootstrap ,React, ועוד...<br /><h3>צד שרת:</h3> BigML (למידת מכונה) ,MongoDB - NoSQL ,SQL ,Express ,Node.js, ועוד..."
+	},
+	"error_404": {
+		"en": "Error<br />page not found",
+		"he": "שגיאה<br />דף האינטרנט אינו קיים"
+	},
+	"ages": {
+		"en": "Ages",
+		"he": "גילאים"
+	},
+	"all_transactions": {
+		"en": "All transactions",
+		"he": "כל העסקאות"
+	},
+	"arabs": {
+		"en": "Arabs",
+		"he": "ערבים"
+	},
+	"automatic_update": {
+		"en": "Automatic update",
+		"he": "עדכון אוטומטי"
+	},
+	"branches": {
+		"en": "Branches",
+		"he": "סניפים"
+	},
+	"business_day": {
+		"en": "Business day",
+		"he": "יום עסקים"
+	},
+	"daily_transactions_summary": {
+		"en": "Daily transactions summary",
+		"he": "סיכום עסקאות יומי"
+	},
+	"date": {
+		"en": "Date",
+		"he": "תאריך"
+	},
+	"district": {
+		"en": "District",
+		"he": "מחוז"
+	},
+	"end_date": {
+		"en": "End date",
+		"he": "תאריך סיום"
+	},
+	"sub_district": {
+		"en": "Sub district",
+		"he": "נפה"
+	},
+	"events": {
+		"en": "Events",
+		"he": "ארועים"
+	},
+	"flavor": {
+		"en": "Flavor",
+		"he": "טעם"
+	},
+	"flavors": {
+		"en": "Flavors",
+		"he": "טעמים"
+	},
+	"full": {
+		"en": "Full",
+		"he": "מלא"
+	},
+	"gram": {
+		"en": "g",
+		"he": "ג'"
+	},
+	"gregorian_date": {
+		"en": "Gregorian date",
+		"he": "תאריך גרגוריאני"
+	},
+	"half": {
+		"en": "Half",
+		"he": "חצי"
+	},
+	"hebrew_date": {
+		"en": "Hebrew date",
+		"he": "תאריך עברי"
+	},
+	"home": {
+		"en": "Home",
+		"he": "בית"
+	},
+	"jews": {
+		"en": "Jews",
+		"he": "יהודים"
+	},
+	"jokes": {
+		"en": "Jokes",
+		"he": "בדיחות"
+	},
+	"kilogram": {
+		"en": "kg",
+		"he": "ק''ג"
+	},
+	"loading": {
+		"en": "Loadin...",
+		"he": "נטען..."
+	},
+	"manual_update": {
+		"en": "Manual update",
+		"he": "עדכון ידני"
+	},
+	"many_transactions": {
+		"en": "Many transactions to process and model",
+		"he": "עסקאות רבות לעיבוד ולמידול"
+	},
+	"meteorological_station_id": {
+		"en": "Meteorological station ID",
+		"he": "מזהה תחנה מטאורולוגית"
+	},
+	"meteorological_station_location": {
+		"en": "Meteorological station location",
+		"he": "מיקום תחנה מטאורולוגית"
+	},
+	"model_building": {
+		"en": "Model building",
+		"he": "בניית מודל"
+	},
+	"name": {
+		"en": "Name",
+		"he": "שם"
+	},
+	"no": {
+		"en": "No",
+		"he": "לא"
+	},
+	"no_transactions": {
+		"en": "There are no transactions to send",
+		"he": "אין עסקאות לשליחה"
+	},
+	"others": {
+		"en": "Others",
+		"he": "אחרים"
+	},
+	"owner": {
+		"en": "Owner",
+		"he": "בעלים"
+	},
+	"predictions": {
+		"en": "Predictions",
+		"he": "תחזיות"
+	},
+	"progress": {
+		"en": "Progress",
+		"he": "התקדמות"
+	},
+	"run_simulator": {
+		"en": "Run simulator",
+		"he": "הרץ סימולטור"
+	},
+	"sectors": {
+		"en": "Sectors",
+		"he": "מגזרים"
+	},
+	"send": {
+		"en": "Send",
+		"he": "שלח"
+	},
+	"settlement": {
+		"en": "Settlement",
+		"he": "ישוב"
+	},
+	"settlement_id": {
+		"en": "Settlement ID",
+		"he": "מזהה ישוב"
+	},
+	"settings": {
+		"en": "Settings",
+		"he": "הגדרות"
+	},
+	"start_date": {
+		"en": "Start date",
+		"he": "תאריך התחלה"
+	},
+	"temperature": {
+		"en": "Temperature",
+		"he": "טמפרטורה"
+	},
+	"training_set": {
+		"en": "Training set",
+		"he": "סט אימון"
+	},
+	"transactions": {
+		"en": "Transactions",
+		"he": "עסקאות"
+	},
+	"weather": {
+		"en": "Weather",
+		"he": "מזג אוויר"
+	},
+	"weight": {
+		"en": "Weight",
+		"he": "משקל"
+	}
+}

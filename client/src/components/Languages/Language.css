@@ -1,0 +1,21 @@
+.language {
+	display: flex;
+}
+
+.language select {
+	border: none;
+	color: inherit;
+	font-size: inherit;
+	background-color: inherit;
+	text-transform: capitalize;
+	font-family: impact, "Noto Color Emoji";
+}
+
+.language select:focus {
+	outline: none;
+}
+
+.language option {
+	color: initial;
+	font-family: impact, "Noto Color Emoji";
+}

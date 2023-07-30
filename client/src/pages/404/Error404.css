@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Secular+One&display=swap");
+
+.error404 {
+	text-align: center;
+}
+
+.error404 h1 {
+	margin: 0;
+	font-size: 5rem;
+	line-height: 1;
+	font-family: Impact, "Secular One";
+}
